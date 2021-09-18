@@ -20,6 +20,6 @@ Here are some ideas to get you started:
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats-chi-six-45.vercel.app/api?username=zhouweico&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.zhouwei.co/api?username=zhouweico&show_icons=true)
 
-[![Top Langs](https://github-readme-stats-chi-six-45.vercel.app/api/top-langs/?username=zhouweico&layout=compact)](https://github.com/zhouweico/github-readme-stats)
+[![Top Langs](https://github-readme-stats.zhouwei.co/api/top-langs/?username=zhouweico&layout=compact)](https://github.com/zhouweico/github-readme-stats)
